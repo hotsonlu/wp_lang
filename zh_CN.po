@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Real Places\n"
 "POT-Creation-Date: 2017-02-18 13:51+0800\n"
-"PO-Revision-Date: 2017-03-04 19:05+0800\n"
+"PO-Revision-Date: 2017-03-04 20:22+0800\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -353,7 +353,7 @@ msgstr ""
 #: partials/property/templates/edit-form.php:295
 #: partials/property/templates/submit-form.php:270
 msgid "Features"
-msgstr "优势关键词"
+msgstr " "
 
 #: inc/meta-boxes/config.php:378
 msgid "Minimum Beds"
@@ -936,7 +936,7 @@ msgstr ""
 #: inc/theme-options/property-options.php:51
 #: partials/property/templates/property-for-list.php:27
 msgid "Description"
-msgstr "房子描述"
+msgstr " "
 
 #: inc/theme-options/home-options.php:387
 msgid "Background Image"
@@ -1491,7 +1491,7 @@ msgstr ""
 #: partials/property/templates/edit-form.php:342
 #: partials/property/templates/submit-form.php:300
 msgid "Additional Details"
-msgstr "重要信息"
+msgstr " "
 
 #: inc/theme-options/property-options.php:82
 msgid "Property Features"
@@ -1523,7 +1523,7 @@ msgstr ""
 
 #: inc/theme-options/property-options.php:129
 msgid "Virtual Tour"
-msgstr "实拍视频"
+msgstr " "
 
 #: inc/theme-options/property-options.php:140
 msgid "Property Map"
