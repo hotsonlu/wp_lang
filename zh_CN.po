@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Real Places\n"
 "POT-Creation-Date: 2017-02-18 13:51+0800\n"
-"PO-Revision-Date: 2017-03-04 19:01+0800\n"
+"PO-Revision-Date: 2017-03-04 19:05+0800\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -2692,7 +2692,7 @@ msgstr "卫生间"
 #: partials/property/templates/edit-form.php:122
 #: partials/property/templates/submit-form.php:126
 msgid "Garages"
-msgstr ""
+msgstr "车位"
 
 #: inc/util/real-estate-functions.php:275
 msgid "Job Title"
