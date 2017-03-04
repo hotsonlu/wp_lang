@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Real Places\n"
 "POT-Creation-Date: 2017-02-18 13:51+0800\n"
-"PO-Revision-Date: 2017-02-18 14:02+0800\n"
+"PO-Revision-Date: 2017-03-04 19:01+0800\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -353,7 +353,7 @@ msgstr ""
 #: partials/property/templates/edit-form.php:295
 #: partials/property/templates/submit-form.php:270
 msgid "Features"
-msgstr ""
+msgstr "优势关键词"
 
 #: inc/meta-boxes/config.php:378
 msgid "Minimum Beds"
@@ -936,7 +936,7 @@ msgstr ""
 #: inc/theme-options/property-options.php:51
 #: partials/property/templates/property-for-list.php:27
 msgid "Description"
-msgstr ""
+msgstr "房子描述"
 
 #: inc/theme-options/home-options.php:387
 msgid "Background Image"
@@ -1491,7 +1491,7 @@ msgstr ""
 #: partials/property/templates/edit-form.php:342
 #: partials/property/templates/submit-form.php:300
 msgid "Additional Details"
-msgstr ""
+msgstr "重要信息"
 
 #: inc/theme-options/property-options.php:82
 msgid "Property Features"
@@ -1515,7 +1515,7 @@ msgstr ""
 
 #: inc/theme-options/property-options.php:120
 msgid "Property Video"
-msgstr ""
+msgstr "房子视频"
 
 #: inc/theme-options/property-options.php:128
 msgid "Video Title"
@@ -1523,7 +1523,7 @@ msgstr ""
 
 #: inc/theme-options/property-options.php:129
 msgid "Virtual Tour"
-msgstr ""
+msgstr "实拍视频"
 
 #: inc/theme-options/property-options.php:140
 msgid "Property Map"
@@ -1673,7 +1673,7 @@ msgstr ""
 #: partials/property/templates/submit-form.php:172
 #: partials/search/fields/property-id.php:2
 msgid "Property ID"
-msgstr "房源编码 ID"
+msgstr "房子编码 ID"
 
 #: inc/theme-options/search-options.php:42
 msgid "Property Features in Search Form"
@@ -1731,7 +1731,7 @@ msgstr ""
 #: partials/property/templates/edit-form.php:148
 #: partials/property/templates/submit-form.php:152
 msgid "Area"
-msgstr ""
+msgstr "面积"
 
 #: inc/theme-options/search-options.php:92
 msgid "Values for Minimum Prices Field"
@@ -2679,14 +2679,14 @@ msgstr ""
 #: partials/property/templates/edit-form.php:108
 #: partials/property/templates/submit-form.php:112
 msgid "Bedrooms"
-msgstr ""
+msgstr "房间"
 
 #: inc/util/real-estate-functions.php:90
 #: partials/property/single/floor-plans.php:64
 #: partials/property/templates/edit-form.php:115
 #: partials/property/templates/submit-form.php:119
 msgid "Bathrooms"
-msgstr ""
+msgstr "卫生间"
 
 #: inc/util/real-estate-functions.php:105
 #: partials/property/templates/edit-form.php:122
@@ -3024,7 +3024,7 @@ msgstr ""
 
 #: page-templates/my-properties.php:111
 msgid "Status:"
-msgstr ""
+msgstr "租售状况"
 
 #: page-templates/my-properties.php:130
 msgid "Payment Completed"
