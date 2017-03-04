@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Real Places\n"
 "POT-Creation-Date: 2017-02-18 13:51+0800\n"
-"PO-Revision-Date: 2017-03-04 20:22+0800\n"
+"PO-Revision-Date: 2017-03-04 20:31+0800\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -2890,7 +2890,7 @@ msgstr ""
 #: page-templates/contact.php:378 partials/agent/single/contact-form.php:51
 #: partials/property/single/contact-form.php:54
 msgid "Send Message"
-msgstr ""
+msgstr "联系我们"
 
 #: page-templates/edit-profile.php:76
 msgid "Profile image should have minimum width and height of 220px."
