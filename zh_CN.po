@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Real Places\n"
 "POT-Creation-Date: 2017-02-18 13:51+0800\n"
-"PO-Revision-Date: 2017-03-10 00:08+0800\n"
+"PO-Revision-Date: 2017-03-10 00:27+0800\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -3171,14 +3171,14 @@ msgstr ""
 msgid "Bedroom"
 msgid_plural "Bedrooms"
 msgstr[0] "房间"
-msgstr[1] ""
+msgstr[1] "房间"
 
 #: partials/home/properties-four.php:113
 #: partials/property/single/floor-plans.php:64
 msgid "Bathroom"
 msgid_plural "Bathrooms"
 msgstr[0] "卫生间"
-msgstr[1] ""
+msgstr[1] "卫生间"
 
 #: partials/members/login.php:11 partials/members/login.php:14
 #: partials/members/register.php:11 partials/members/register.php:14
