@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Real Places\n"
 "POT-Creation-Date: 2017-02-18 13:51+0800\n"
-"PO-Revision-Date: 2017-03-04 20:41+0800\n"
+"PO-Revision-Date: 2017-03-09 23:17+0800\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -190,7 +190,7 @@ msgstr ""
 
 #: inc/meta-boxes/config.php:94 page-templates/contact.php:250
 msgid "Contact Details"
-msgstr ""
+msgstr "联系方式"
 
 #: inc/meta-boxes/config.php:98
 msgid "Contact Form"
@@ -252,7 +252,7 @@ msgstr ""
 
 #: inc/meta-boxes/config.php:177 page-templates/contact.php:311
 msgid "Working Hours"
-msgstr ""
+msgstr "工作时间"
 
 #: inc/meta-boxes/config.php:184
 msgid "Contact Form Heading"
@@ -435,28 +435,28 @@ msgstr ""
 #: inc/theme-options/search-options.php:158
 #: partials/property/templates/listing-control.php:34
 msgid "Sort by Price Low to High"
-msgstr ""
+msgstr "价格从低到高"
 
 #: inc/theme-options/archive-options.php:58
 #: inc/theme-options/home-options.php:276
 #: inc/theme-options/search-options.php:159
 #: partials/property/templates/listing-control.php:35
 msgid "Sort by Price High to Low"
-msgstr ""
+msgstr "价格从高到低"
 
 #: inc/theme-options/archive-options.php:59
 #: inc/theme-options/home-options.php:277
 #: inc/theme-options/search-options.php:160
 #: partials/property/templates/listing-control.php:36
 msgid "Sort by Date Old to New"
-msgstr ""
+msgstr "最迟发布"
 
 #: inc/theme-options/archive-options.php:60
 #: inc/theme-options/home-options.php:278
 #: inc/theme-options/search-options.php:161
 #: partials/property/templates/listing-control.php:37
 msgid "Sort by Date New to Old"
-msgstr ""
+msgstr "最新发布"
 
 #: inc/theme-options/footer-options.php:7
 #: inc/theme-options/styles-options/footer-styles-options.php:8
@@ -936,7 +936,7 @@ msgstr ""
 #: inc/theme-options/property-options.php:51
 #: partials/property/templates/property-for-list.php:27
 msgid "Description"
-msgstr " "
+msgstr "看点"
 
 #: inc/theme-options/home-options.php:387
 msgid "Background Image"
@@ -1436,7 +1436,7 @@ msgstr ""
 #: inc/theme-options/property-card-options.php:52
 #: partials/property/templates/property-for-list.php:35
 msgid "Show Details"
-msgstr ""
+msgstr "详细介绍"
 
 #: inc/theme-options/property-options.php:7
 msgid "Property Detail"
@@ -2851,7 +2851,7 @@ msgstr ""
 #: page-templates/contact.php:211 partials/property/templates/edit-form.php:58
 #: partials/property/templates/submit-form.php:26
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: page-templates/contact.php:272
 msgid "Make a Call"
@@ -3394,7 +3394,7 @@ msgstr[1] ""
 
 #: partials/property/templates/listing-control.php:33
 msgid "Default Order"
-msgstr ""
+msgstr "默认排序"
 
 #: partials/property/templates/property-for-grid.php:34
 msgid "Remove from favorites"
