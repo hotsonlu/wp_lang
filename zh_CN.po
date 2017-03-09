@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Real Places\n"
 "POT-Creation-Date: 2017-02-18 13:51+0800\n"
-"PO-Revision-Date: 2017-03-09 23:17+0800\n"
+"PO-Revision-Date: 2017-03-10 00:08+0800\n"
 "Last-Translator: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language-Team: M Saqib Sarwar <saqib@inspirythemes.com>\n"
 "Language: en_US\n"
@@ -1060,7 +1060,7 @@ msgstr ""
 #: inc/theme-options/home-options.php:665
 #: inc/theme-options/styles-options/featured-properties-styles-options.php:8
 msgid "Featured Properties"
-msgstr ""
+msgstr "推荐靓房"
 
 #: inc/theme-options/home-options.php:571
 msgid ""
@@ -1640,14 +1640,14 @@ msgstr "关键字"
 #: partials/property/templates/edit-form.php:94
 #: partials/property/templates/submit-form.php:86
 msgid "Status"
-msgstr ""
+msgstr "租售状况"
 
 #: inc/theme-options/search-options.php:30
 #: inc/util/real-estate-functions.php:120
 #: partials/property/templates/edit-form.php:76
 #: partials/property/templates/submit-form.php:44
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: inc/theme-options/search-options.php:31
 msgid "Min Beds"
@@ -3157,7 +3157,7 @@ msgstr[1] ""
 #: partials/home/properties-three.php:146
 msgid "Garage"
 msgid_plural "Garages"
-msgstr[0] ""
+msgstr[0] "车位"
 msgstr[1] ""
 
 #: partials/home/news.php:160 partials/post/entry-meta.php:4
@@ -3170,14 +3170,14 @@ msgstr ""
 #: partials/property/single/floor-plans.php:53
 msgid "Bedroom"
 msgid_plural "Bedrooms"
-msgstr[0] ""
+msgstr[0] "房间"
 msgstr[1] ""
 
 #: partials/home/properties-four.php:113
 #: partials/property/single/floor-plans.php:64
 msgid "Bathroom"
 msgid_plural "Bathrooms"
-msgstr[0] ""
+msgstr[0] "卫生间"
 msgstr[1] ""
 
 #: partials/members/login.php:11 partials/members/login.php:14
